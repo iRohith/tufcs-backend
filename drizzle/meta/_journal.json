@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710833964490,
+      "tag": "0000_square_tyrannus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710835503216,
+      "tag": "0001_ambitious_blacklash",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710836615864,
+      "tag": "0002_eminent_justin_hammer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710837453548,
+      "tag": "0003_lying_emma_frost",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1710842109089,
+      "tag": "0004_supreme_scarecrow",
+      "breakpoints": true
+    }
+  ]
+}
